@@ -1,0 +1,17 @@
+Voting Round,Pie,Round Status,Percent,First,Second,Third,Support
+1,Lemon Pistachio,Contesting,0.2857142857142857,2,4,0,6
+1,Peach Salad,Contesting,0.2857142857142857,2,1,2,5
+1,American Flag,Contesting,0.2857142857142857,2,1,1,4
+1,Desperation,Contesting,0.14285714285714285,1,0,0,1
+1,S'Mores,Eliminated,0,0,1,2,3
+1,Tex Mex,Eliminated,0,0,0,1,1
+1,Onion,Eliminated,0,0,0,0,0
+2,Lemon Pistachio,Contesting,0.2857142857142857,2,4,0,6
+2,Peach Salad,Contesting,0.2857142857142857,2,1,2,5
+2,American Flag,Contesting,0.2857142857142857,2,1,1,4
+2,Desperation,Eliminated,0.14285714285714285,1,0,0,1
+3,Lemon Pistachio,Contesting,0.42857142857142855,3,3,0,6
+3,Peach Salad,Contesting,0.2857142857142857,2,1,2,5
+3,American Flag,Eliminated,0.2857142857142857,2,1,1,4
+4,Lemon Pistachio,Winner,0.7142857142857143,5,1,0,6
+4,Peach Salad,Eliminated,0.2857142857142857,2,1,2,5

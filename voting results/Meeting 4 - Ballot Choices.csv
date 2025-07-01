@@ -1,0 +1,21 @@
+vote,pie,rank,rank_name,top_choice
+Ballot #1,Peach Salad,1,first,TRUE
+Ballot #1,Lemon Pistachio,2,second,FALSE
+Ballot #1,American Flag,3,third,FALSE
+Ballot #2,Peach Salad,1,first,TRUE
+Ballot #2,S'Mores,2,second,FALSE
+Ballot #2,Tex Mex,3,third,FALSE
+Ballot #3,American Flag,1,first,TRUE
+Ballot #3,Lemon Pistachio,2,second,FALSE
+Ballot #3,S'Mores,3,third,FALSE
+Ballot #4,American Flag,1,first,TRUE
+Ballot #4,Lemon Pistachio,2,second,FALSE
+Ballot #4,Peach Salad,3,third,FALSE
+Ballot #5,Desperation,1,first,TRUE
+Ballot #5,Lemon Pistachio,2,second,FALSE
+Ballot #5,S'Mores,3,third,FALSE
+Ballot #6,Lemon Pistachio,1,first,TRUE
+Ballot #6,American Flag,2,second,FALSE
+Ballot #6,Peach Salad,3,third,FALSE
+Ballot #7,Lemon Pistachio,1,first,TRUE
+Ballot #7,Peach Salad,2,second,FALSE
