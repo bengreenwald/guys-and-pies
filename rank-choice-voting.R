@@ -26,7 +26,8 @@ source(here("meeting-params.R"))
 meeting_params$meeting
 
 # ---- choose meeting, set parameters ----
-chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 4")
+# chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 4")
+chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 5")
 # set parameters from chosen meeting
 meeting <- chosen_meeting$meeting
 read_range <- chosen_meeting$read_range
@@ -72,6 +73,7 @@ n_ballots <- length(unique(ballots$vote))
 initial_results <- votes %>% 
   group_by(pie, rank_name) %>% 
   summarise(votes = n_distinct(vote), .groups = "drop") %>% 
+  arrange(rank_name) %>% 
   pivot_wider(names_from = rank_name, values_from = votes) %>% 
   select(-unranked) %>% 
   mutate(

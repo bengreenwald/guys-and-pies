@@ -9,7 +9,7 @@ pacman::p_load(
 
 # ---- set params ----
 m4 <- list(meeting = "Meeting 4", read_range = "A1:H8", write_range = "A11")
-m5 <- list(meeting = "Meeting 5", read_range = NA, write_range = NA)
+m5 <- list(meeting = "Meeting 5", read_range = "A1:H8", write_range = "A11")
 m6 <- list(meeting = "Meeting 6", read_range = NA, write_range = NA)
 m7 <- list(meeting = "Meeting 7", read_range = NA, write_range = NA)
 m8 <- list(meeting = "Meeting 8", read_range = NA, write_range = NA)

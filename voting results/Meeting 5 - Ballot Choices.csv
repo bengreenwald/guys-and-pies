@@ -1,0 +1,22 @@
+vote,pie,rank,rank_name,top_choice
+Ballot #1,Tomato,1,first,TRUE
+Ballot #1,Blueberry Poptart,2,second,FALSE
+Ballot #1,Chicken Pot Pie,3,third,FALSE
+Ballot #2,Savory Pumpkin,1,first,TRUE
+Ballot #2,Blueberry Poptart,2,second,FALSE
+Ballot #2,Balsamic Mushroom Caramelized Onion Fig,3,third,FALSE
+Ballot #3,Blueberry Poptart,1,first,TRUE
+Ballot #3,Chicken Pot Pie,2,second,FALSE
+Ballot #3,French Onion Soup,3,third,FALSE
+Ballot #4,Chicken Pot Pie,1,first,TRUE
+Ballot #4,Banoffee,2,second,FALSE
+Ballot #4,Savory Pumpkin,3,third,FALSE
+Ballot #5,Chicken Pot Pie,1,first,TRUE
+Ballot #5,Tomato,2,second,FALSE
+Ballot #5,Savory Pumpkin,3,third,FALSE
+Ballot #6,Chicken Pot Pie,1,first,TRUE
+Ballot #6,Blueberry Poptart,2,second,FALSE
+Ballot #6,Savory Pumpkin,3,third,FALSE
+Ballot #7,Chicken Pot Pie,1,first,TRUE
+Ballot #7,French Onion Soup,2,second,FALSE
+Ballot #7,Banoffee,3,third,FALSE
