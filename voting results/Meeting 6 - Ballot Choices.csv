@@ -1,0 +1,31 @@
+vote,pie,rank,rank_name,top_choice
+Ballot #1,Sweet Mexican Corn,1,first,TRUE
+Ballot #1,Pear Ginger,2,second,FALSE
+Ballot #1,Key Lime,3,third,FALSE
+Ballot #10,Spinach Leek Quiche,1,first,TRUE
+Ballot #10,Double Cheeseburger,2,second,FALSE
+Ballot #10,Sweet Mexican Corn,3,third,FALSE
+Ballot #2,Double Cheeseburger,1,first,TRUE
+Ballot #2,Raspberry Brownie Hand Pies,2,second,FALSE
+Ballot #2,Chocolate Bonanza,3,third,FALSE
+Ballot #3,Sweet Mexican Corn,1,first,TRUE
+Ballot #3,Raspberry Brownie Hand Pies,2,second,FALSE
+Ballot #3,Key Lime,3,third,FALSE
+Ballot #4,Double Cheeseburger,1,first,TRUE
+Ballot #4,Raspberry Brownie Hand Pies,2,second,FALSE
+Ballot #4,Key Lime,3,third,FALSE
+Ballot #5,Raspberry Brownie Hand Pies,1,first,TRUE
+Ballot #5,Key Lime,2,second,FALSE
+Ballot #5,Sweet Mexican Corn,3,third,FALSE
+Ballot #6,Sweet Mexican Corn,1,first,TRUE
+Ballot #6,Cheesy Orange Marmalade,2,second,FALSE
+Ballot #6,Chocolate Bonanza,3,third,FALSE
+Ballot #7,Double Cheeseburger,1,first,TRUE
+Ballot #7,Sweet Mexican Corn,2,second,FALSE
+Ballot #7,Spinach Leek Quiche,3,third,FALSE
+Ballot #8,Sweet Mexican Corn,1,first,TRUE
+Ballot #8,Double Cheeseburger,2,second,FALSE
+Ballot #8,Raspberry Brownie Hand Pies,3,third,FALSE
+Ballot #9,Cheesy Orange Marmalade,1,first,TRUE
+Ballot #9,Lemon Meringue,2,second,FALSE
+Ballot #9,Spinach Leek Quiche,3,third,FALSE

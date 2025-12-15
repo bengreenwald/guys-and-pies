@@ -1,0 +1,19 @@
+Voting Round,Pie,Round Status,Percent,First,Second,Third,Support
+1,Sweet Mexican Corn,Contesting,0.4,4,1,2,7
+1,Double Cheeseburger,Contesting,0.3,3,2,0,5
+1,Raspberry Brownie Hand Pies,Contesting,0.1,1,3,1,5
+1,Spinach Leek Quiche,Contesting,0.1,1,0,2,3
+1,Cheesy Orange Marmalade,Contesting,0.1,1,1,0,2
+1,Key Lime,Eliminated,0,0,1,3,4
+1,Chocolate Bonanza,Eliminated,0,0,0,2,2
+1,Lemon Meringue,Eliminated,0,0,1,0,1
+1,Pear Ginger,Eliminated,0,0,1,0,1
+1,Christmas Cookie,Eliminated,0,0,0,0,0
+1,Potato Pesto Pistachio,Eliminated,0,0,0,0,0
+2,Sweet Mexican Corn,Contesting,0.4,4,1,2,7
+2,Double Cheeseburger,Contesting,0.3,3,2,0,5
+2,Raspberry Brownie Hand Pies,Eliminated,0.1,1,3,1,5
+2,Spinach Leek Quiche,Eliminated,0.1,1,0,2,3
+2,Cheesy Orange Marmalade,Eliminated,0.1,1,1,0,2
+3,Sweet Mexican Corn,Winner,0.5,5,1,1,7
+3,Double Cheeseburger,Eliminated,0.4,4,1,0,5
