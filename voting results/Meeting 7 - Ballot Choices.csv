@@ -1,0 +1,22 @@
+vote,pie,rank,rank_name,top_choice
+Ballot #1,Beef & Ale,1,first,TRUE
+Ballot #1,Bourbon Waffle,2,second,FALSE
+Ballot #1,PEMDAS Quiche,3,third,FALSE
+Ballot #2,Beef & Ale,1,first,TRUE
+Ballot #2,Bourbon Waffle,2,second,FALSE
+Ballot #2,Newton Two Ways,3,third,FALSE
+Ballot #3,Beef & Ale,1,first,TRUE
+Ballot #3,PEMDAS Quiche,2,second,FALSE
+Ballot #3,Bourbon Waffle,3,third,FALSE
+Ballot #4,Bourbon Waffle,1,first,TRUE
+Ballot #4,Tangelo Lime,2,second,FALSE
+Ballot #4,PEMDAS Quiche,3,third,FALSE
+Ballot #5,PEMDAS Quiche,1,first,TRUE
+Ballot #5,Beef & Ale,2,second,FALSE
+Ballot #5,Tangelo Lime,3,third,FALSE
+Ballot #6,PEMDAS Quiche,1,first,TRUE
+Ballot #6,Bourbon Waffle,2,second,FALSE
+Ballot #6,Tangelo Lime,3,third,FALSE
+Ballot #7,Beef & Ale,1,first,TRUE
+Ballot #7,Bourbon Waffle,2,second,FALSE
+Ballot #7,Tangelo Lime,3,third,FALSE
