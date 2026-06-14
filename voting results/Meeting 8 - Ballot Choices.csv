@@ -1,0 +1,49 @@
+vote,pie,rank,rank_name,top_choice
+Ballot #1,Chicken Pot Pie,1,first,TRUE
+Ballot #1,Panama Papaya,2,second,FALSE
+Ballot #1,Mango Tart,3,third,FALSE
+Ballot #10,Kedjenou Stew,1,first,TRUE
+Ballot #10,Panama Papaya,2,second,FALSE
+Ballot #10,Mango Tart,3,third,FALSE
+Ballot #11,Kedjenou Stew,1,first,TRUE
+Ballot #11,Quindim,2,second,FALSE
+Ballot #11,Panama Papaya,3,third,FALSE
+Ballot #12,Group J,1,first,TRUE
+Ballot #12,Kedjenou Stew,2,second,FALSE
+Ballot #12,K'ok Samsa,3,third,FALSE
+Ballot #13,Mango Tart,1,first,TRUE
+Ballot #13,Kedjenou Stew,2,second,FALSE
+Ballot #13,K'ok Samsa,3,third,FALSE
+Ballot #14,Kedjenou Stew,1,first,TRUE
+Ballot #14,Group J,2,second,FALSE
+Ballot #14,Mango Tart,3,third,FALSE
+Ballot #15,Mango Tart,1,first,TRUE
+Ballot #15,Quindim,2,second,FALSE
+Ballot #15,Kedjenou Stew,3,third,FALSE
+Ballot #16,Kedjenou Stew,1,first,TRUE
+Ballot #16,Mango Tart,2,second,FALSE
+Ballot #16,Group J,3,third,FALSE
+Ballot #2,Group J,1,first,TRUE
+Ballot #2,Kedjenou Stew,2,second,FALSE
+Ballot #2,Mango Tart,3,third,FALSE
+Ballot #3,Chicken Pot Pie,1,first,TRUE
+Ballot #3,K'ok Samsa,2,second,FALSE
+Ballot #3,Mango Tart,3,third,FALSE
+Ballot #4,Mango Tart,1,first,TRUE
+Ballot #4,Kedjenou Stew,2,second,FALSE
+Ballot #4,Panama Papaya,3,third,FALSE
+Ballot #5,Kedjenou Stew,1,first,TRUE
+Ballot #5,Mango Tart,2,second,FALSE
+Ballot #5,Panama Papaya,3,third,FALSE
+Ballot #6,Mango Tart,1,first,TRUE
+Ballot #6,Group J,2,second,FALSE
+Ballot #6,Panama Papaya,3,third,FALSE
+Ballot #7,Mango Tart,1,first,TRUE
+Ballot #7,Panama Papaya,2,second,FALSE
+Ballot #7,Cherry Almond Custard,3,third,FALSE
+Ballot #8,Quindim,1,first,TRUE
+Ballot #8,Mango Tart,2,second,FALSE
+Ballot #8,Kedjenou Stew,3,third,FALSE
+Ballot #9,Mango Tart,1,first,TRUE
+Ballot #9,Kedjenou Stew,2,second,FALSE
+Ballot #9,K'ok Samsa,3,third,FALSE

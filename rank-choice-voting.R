@@ -29,7 +29,8 @@ meeting_params$meeting
 # chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 4")
 # chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 5")
 # chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 6")
-chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 7")
+# chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 7")
+chosen_meeting <- meeting_params %>% filter(meeting == "Meeting 8")
 # set parameters from chosen meeting
 meeting <- chosen_meeting$meeting
 read_range <- chosen_meeting$read_range
