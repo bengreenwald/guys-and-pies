@@ -1,0 +1,14 @@
+Voting Round,Pie,Round Status,Percent,First,Second,Third,Support
+1,Chocolate Hazelnut,Contesting,0.375,3,2,1,6
+1,Pikachu Empanadas,Contesting,0.375,3,1,1,5
+1,Ube Yuzu,Contesting,0.25,2,2,1,5
+1,Corn Dog,Eliminated,0,0,1,2,3
+1,Sweet Potato Shepherds,Eliminated,0,0,2,1,3
+1,Apple,Eliminated,0,0,0,1,1
+1,Plumble,Eliminated,0,0,0,1,1
+1,Eskimo,Eliminated,0,0,0,0,0
+2,Chocolate Hazelnut,Contesting,0.375,3,2,1,6
+2,Pikachu Empanadas,Contesting,0.375,3,1,1,5
+2,Ube Yuzu,Eliminated,0.25,2,2,1,5
+3,Chocolate Hazelnut,Winner,0.5,4,1,1,6
+3,Pikachu Empanadas,Eliminated,0.375,3,1,1,5

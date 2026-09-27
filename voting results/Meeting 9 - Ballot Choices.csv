@@ -1,0 +1,25 @@
+vote,pie,rank,rank_name,top_choice
+Ballot #1,Chocolate Hazelnut,1,first,TRUE
+Ballot #1,Ube Yuzu,2,second,FALSE
+Ballot #1,Pikachu Empanadas,3,third,FALSE
+Ballot #2,Pikachu Empanadas,1,first,TRUE
+Ballot #2,Sweet Potato Shepherds,2,second,FALSE
+Ballot #2,Chocolate Hazelnut,3,third,FALSE
+Ballot #3,Ube Yuzu,1,first,TRUE
+Ballot #3,Corn Dog,2,second,FALSE
+Ballot #3,Apple,3,third,FALSE
+Ballot #4,Ube Yuzu,1,first,TRUE
+Ballot #4,Chocolate Hazelnut,2,second,FALSE
+Ballot #4,Corn Dog,3,third,FALSE
+Ballot #5,Pikachu Empanadas,1,first,TRUE
+Ballot #5,Chocolate Hazelnut,2,second,FALSE
+Ballot #5,Ube Yuzu,3,third,FALSE
+Ballot #6,Chocolate Hazelnut,1,first,TRUE
+Ballot #6,Sweet Potato Shepherds,2,second,FALSE
+Ballot #6,Corn Dog,3,third,FALSE
+Ballot #7,Pikachu Empanadas,1,first,TRUE
+Ballot #7,Ube Yuzu,2,second,FALSE
+Ballot #7,Plumble,3,third,FALSE
+Ballot #8,Chocolate Hazelnut,1,first,TRUE
+Ballot #8,Pikachu Empanadas,2,second,FALSE
+Ballot #8,Sweet Potato Shepherds,3,third,FALSE
